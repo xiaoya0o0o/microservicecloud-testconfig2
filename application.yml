@@ -11,7 +11,7 @@ spring:
 ---
 spring:
     aaa
-    bbb
+    bbb ccc
 ---
 spring: 
     profiles: test   #测试环境
